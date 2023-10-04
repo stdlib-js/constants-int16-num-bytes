@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import INT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-num-bytes@deno/mod.js';
+import INT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-num-bytes@v0.1.1-deno/mod.js';
 ```
 
 #### INT16_NUM_BYTES
@@ -67,7 +67,7 @@ var bool = ( INT16_NUM_BYTES === 2 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import INT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-num-bytes@deno/mod.js';
+import INT16_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-num-bytes@v0.1.1-deno/mod.js';
 
 console.log( INT16_NUM_BYTES );
 // => 2
